@@ -11,3 +11,5 @@
 - Subir cambios a GitHub
 
 **Autor:** *Arantxa Puig*
+**Fecha:** *08 de Febrero de 2026*
+
